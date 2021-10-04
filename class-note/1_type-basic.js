@@ -8,3 +8,11 @@ var heroes = ['Capt', 'Thor', 'Hulk'];
 var items = [1, 2, 3];
 // TS 튜플
 var address = ['gangnam', 100];
+// TS 객체
+var obj = {};
+var person = {
+    name: 'capt',
+    age: 100
+};
+// TS 진위값
+var show = true;
