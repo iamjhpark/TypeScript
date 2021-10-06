@@ -11,9 +11,9 @@ function add(): number {
 }
 
 // 함수의 타입을 정의하는 방식
-function sum(a: number, b: number): number {
-    return a + b;
-}
+// function sum(a: number, b: number): number {
+//     return a + b;
+// }
 
 // 함수의 옵셔널 파라미터
 function log(a: string, b?: string, c?: string) {
